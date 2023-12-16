@@ -2,7 +2,7 @@
 
 ## 1.1	 Your design must include a block diagram of each of the components to have the application needs to operate. 
 
- ![Design application](desing.png)
+ ![Design application](/hw4_privacy/desing.png)
 
 ## 1.2	 In your design, you must provide a list of the data that you need to collect for the operation of the application. For each, provide a description of why you need this data. Examples: 
 
